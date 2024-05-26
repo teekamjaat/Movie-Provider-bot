@@ -276,7 +276,7 @@ Bʏ @TheMovieProviderBot</b>"""
 
     LOGO =ᴍᴇᴛʜᴏᴅ."""
 
-    PREMIUM_TEXT = """<b>👋 ʜᴇʏ {},
+    PREMIUM_TEXT = """<b>'👋'ʜᴇʏ {},
     
 🎖️ <u>ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʟᴀɴs</u>
 
