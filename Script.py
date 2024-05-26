@@ -35,8 +35,8 @@ Aᴅᴅᴇᴅ Bʏ - {}
 -
     LOG_TEXT_P = """#NewUser
     
-Iᴅ - <code>{}</code>
-Nᴀᴍᴇ - {}
+    Iᴅ - <code>{}</code>
+    Nᴀᴍᴇ - {}
 
 -
     ALRT_TXT = """ʜᴇʟʟᴏ {},
